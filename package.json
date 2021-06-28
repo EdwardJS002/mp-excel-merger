@@ -1,0 +1,16 @@
+{
+  "name": "topchrono",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^5.0.6",
+    "xlsx": "^0.17.0",
+    "yargs": "^17.0.1"
+  }
+}
